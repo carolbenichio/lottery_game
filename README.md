@@ -1,4 +1,4 @@
-# Lottery numbers generator 🎰
+# Lottery numbers generator! 🎰
 
 Greetings!
 To increase my JavaScript skills, i have decided to create a code to draw how much numbers you want from 1 to 60!
